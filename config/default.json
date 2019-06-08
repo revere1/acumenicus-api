@@ -1,0 +1,13 @@
+{
+  "db": "mongodb://testuser:r123456789@ds135107.mlab.com:35107/demoacumenicus",
+  "jwtPrivateKey": "5Kb8kL-Na-f9zgWQno-ve-gidDA76MzPL-ee-6TsZZY3-n-6hWXMssSzNydYXYB9KF",
+  "mailServer": {
+    "host": "-HOST-",
+    "auth": {
+      "user": "sunkpo",
+      "pass": "Admin123$"
+    },
+    "from": "-FROM-EMAIL-",
+    "subject": "Password Reset"
+  }
+}

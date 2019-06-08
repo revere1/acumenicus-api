@@ -1,0 +1,9 @@
+{
+    "jwtPrivateKey": "5Kb8kL-Na-f9zgWQno-ve-gidDA76MzPL-ee-6TsZZY3-n-6hWXMssSzNydYXYB9KF",
+    "mailServer": {
+        "auth": {
+            "user": "mailServer_user",
+            "pass": "mailServer_pass"
+        }
+    }
+}
